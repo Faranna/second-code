@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+   
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    background-color: #0b032d;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+/* this is for first five */
+.one {
+    background-color: #ffb997;
+
+}
+
+.two {
+    background-color: #f67e7d;
+}
+ 
+.three {
+    background-color: #843b62;
+}
+
+.four {
+    background-color: #74546a;
+}
+.five {
+    background-color: #1d7874;
+}
+
+.six {
+    background-color: #679289;
+}
+
+.seven {
+    background-color: #f4c095;
+}
+.eight {
+    background-color: #ee2e31;
+}
+
+.nine {
+    background-color: #8c2f39;
+}
+
+.ten {
+    background-color: #b23a48;
+}
+
+.eleven {
+    background-color: #fcb9b2;
+}
+
+.twelve {
+    background-color: #fed0bb;
+}
